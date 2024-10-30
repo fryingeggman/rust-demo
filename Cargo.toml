@@ -1,0 +1,3 @@
+[workspace]
+members = ["web-sockets"]
+resolver = "2"
